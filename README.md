@@ -14,5 +14,15 @@ Este sería el shortcode
 
 Sustituye el id del shortcode por el id de la url.
 
+Esto sería como se ven los botones y como se ven los popups.
+
+![botones](https://github.com/berlanga2008/activecampaing/blob/main/active2.png)
+
+
+![popup](https://github.com/berlanga2008/activecampaing/blob/main/active1.png)
+
+
+
+
 
 
